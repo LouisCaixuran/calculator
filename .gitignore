@@ -1,0 +1,6 @@
+build/
+dist/
+calculator.egg-info/
+.DS_Store
+calculator/.DS_Store
+calculator.egg-info/PKG-INFO
