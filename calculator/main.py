@@ -1,3 +1,4 @@
+import wx
 import re
 
 class Stack(object):
@@ -90,7 +91,10 @@ def  cal(a,b,action):
 	if action == '*':
 		return a*b
 	if  action =='/':
-		return a/b
+		if b==0:
+			return 0
+		else:	
+			return a/b
 
 
 if __name__ == '__main__':
