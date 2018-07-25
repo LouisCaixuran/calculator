@@ -1,14 +1,14 @@
-###how to use
+*how to use
 	
 	$python setup.py install
 	$cal
 
-###test the program
+*test the program
 
 	$python setup.py test
 
 
-###debug the program for windows
+*debug the program for windows
 	
 debug the windows
 	
