@@ -98,11 +98,6 @@ def  cal(a,b,action):
 
 
 if __name__ == '__main__':
-	a="12+30-5*8/2"
-	print(a)
-	print(desparate(a))
-	print(transfer(desparate(a)))
-	print(calculate(a))
-
+	statrcal()
 	
 
